@@ -1,0 +1,2 @@
+# cybozy_cabinet_restore
+パッケージ（オンプレ）版サイボウOffice 10のファイル管理をフォルダ構造そのままローカルに復元するPythonスクリプトです。
